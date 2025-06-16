@@ -4,7 +4,16 @@
 
 **Codenames** is a popular word-based party game involving deduction, word association, and strategic teamwork. This guide explains the game's rules, setup, and winning conditions in a clear and concise format.
 
+![Spymaster](img/spymaster.png)
+![Field Operative](img/player.png)
+![Key Card](img/spymaster1.png)
 ---
+
+## Run Code
+- create virtual enviroment - python3 -m venv venv
+- pip install -r requirements.txt
+- python -m scripts.human_vs_human
+
 
 ## Objective
 
